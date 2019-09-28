@@ -1,6 +1,3 @@
-# StackEdit-Sync
-GitHub workplace for StackEdit synchronization
+# Introduction
 
-Testing Push 15:28
-
-
+本书是笔者在Duolingo上学习法语的笔记。

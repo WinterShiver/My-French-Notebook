@@ -1,0 +1,52 @@
+{
+    
+    "title": "我的法语笔记",
+    "description": "我在Duolingo学习法语时记录的笔记。",
+    "language": "zh-cn",
+    "author": "Chong",
+    "styles": {
+        "website": "style.css"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-livereload",
+        "-sharing",
+        "book-summary-scroll-position-saver",
+        "expandable-chapters",
+        "search-plus",
+        "splitter",
+        "tbfed-pagefooter",
+        "back-to-top-button",
+        "yahei",
+        "katex",
+        "theme-api",
+        "theme-comscore"
+    ],
+    "pluginsConfig": {
+        "expandable-chapters": {},
+        "theme-api": { "theme": "light" },
+        "tbfed-pagefooter": {
+            "copyright": "&copy; Chong",
+            "modify_label": "文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "fontSettings": {
+            "theme": "white",
+            "family": "msyh",
+            "size": 2
+          }
+    },
+    "pdf": {
+        "toc": true,
+        "pageNumbers": true,
+        "fontSize": 18,
+        "paperSize": "a4",
+        "margin": {
+          "right": 30,
+          "left": 30,
+          "top": 30,
+          "bottom": 50
+        }
+      }
+}
