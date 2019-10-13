@@ -1,9 +1,6 @@
-[Intro](README.md)
-
 # Summary
-
-本书是笔者在Duolingo上学习法语的笔记。
-
+* 本书简介
+  * [Introduction](README.md)
 * A-基础知识，最简单的单词和语法
   * [A-00-导论](chapter/A-00-导论.md)
   * [A-01-人称、基础语法规则](chapter/A-01-人称、基础语法规则.md)
